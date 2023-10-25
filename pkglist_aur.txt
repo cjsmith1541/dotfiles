@@ -1,0 +1,17 @@
+ani-cli
+awesome-git
+gruvbox-dark-gtk
+gruvbox-dark-icons-gtk
+hackernews_tui
+jellycli
+jellyfin-media-player
+onedrive
+pfetch
+rofi-bluetooth-git
+web-greeter
+wifiman
+wpa_supplicant_gui
+xcursor-simp1e
+yay
+youtube-dl
+youtube-music
